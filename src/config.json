@@ -1,9 +1,9 @@
 {
     "url": {
-        "movie_list": "https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=fr-FR&sort_by=popularity.desc",
+        "movie_list": "https://api.themoviedb.org/3/discover/movie?include_adult=true&include_video=false&language=fr-FR&sort_by=popularity.desc",
         "movie_detail": "https://api.themoviedb.org/3/movie/",
         "photo_path": "https://image.tmdb.org/t/p/w300"
     },
-    "api_key": "..."
+    "api_key": "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkNDhjYjlhNTRiMGUyOTk3ZGE3ZDgzNzA5Y2IyNjEzZSIsInN1YiI6IjY1YzEwNGZjOTAyMDEyMDE3Y2NmNTE3OSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.cwAXCYq6EdAsDxGFjRno5iKQKvJHa99lrfJ6P0XBOyY"
     
 }
