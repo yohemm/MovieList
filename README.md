@@ -2,6 +2,15 @@
 # movies App
 <!-- ![Project Banner](path/to/banner/image)  -->
 
+## 🌟 Project Status
+
+> **Current Status**: **:red_circle: Discontinued**  
+> No Maintained
+>
+> Learning Project
+
+---
+
 ## Overview
 
 Movies APP using THE MovieDB API For VueJS Courses during my second year of college.
